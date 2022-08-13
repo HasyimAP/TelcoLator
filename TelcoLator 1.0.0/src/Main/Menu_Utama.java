@@ -48,6 +48,7 @@ public class Menu_Utama extends javax.swing.JFrame {
         jButtonKalkulator = new javax.swing.JButton();
         SupportMe = new javax.swing.JLabel();
 
+        setIconImage(new ImageIcon("D:/Lain-lain/TelcoLator/Pict/TelcoLator Logo 1.png").getImage());
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("TelcoLator");
         setMinimumSize(new java.awt.Dimension(445, 220));
