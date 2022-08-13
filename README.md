@@ -1,6 +1,6 @@
 # TelcoLator
 
-The TelcoLator application is an application in the form of a multifunctional calculator intended for engineering students, especially telecommunications engineering. In this application there are various calculators for various topics. This calculator is programmed based on formulas that are often used in related courses. Users only need to enter the required variables correctly and with 1 button the results will be displayed immediately. This calculator can also be used for the general public because there are also fairly general topics in it.
+TelcoLator is an application in the form of a multifunctional calculator intended for engineering students, especially telecommunications engineering. In this application there are various calculators for various topics. This calculator is programmed based on formulas that are often used in related courses. Users only need to enter the required variables correctly and with 1 button the results will be displayed immediately. This calculator can also be used for the general public because there are also fairly general topics in it.
 
 ===============================================================
 
